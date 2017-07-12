@@ -1,0 +1,9 @@
+{
+  "name": "plaintv-first-component",
+  "version": "1.0.0",
+  "description": "Example of a simple component with Vue 2",
+  "scripts": {
+  },
+  "author": "Plain Concepts",
+  "license": "MIT"
+}
